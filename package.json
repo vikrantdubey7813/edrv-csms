@@ -1,0 +1,17 @@
+{
+  "name": "chargepoint-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "command-line-args": "^5.2.0",
+    "ws": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vikrant",
+  "license": "ISC"
+}
